@@ -12,4 +12,10 @@ The teams pages => there are a 9 page one for each team which represent the feed
 # What is done
 
 
+# screens:
+Main page (old_version):
+![2022-10-08_173653](https://user-images.githubusercontent.com/77818119/195187824-b1cb0aa9-8a39-4a5b-9fd4-341c10b5b374.png)
+Main page (The_new_one):
+
+![2022-10-11_221259](https://user-images.githubusercontent.com/77818119/195189525-56664a8f-da1c-40d5-98e3-427961297854.png)
 
